@@ -1,0 +1,7 @@
+name: CreeperPlugin
+main: com.keanu.CreeperPlugin.CreeperPlugin
+version: 1.0
+commands:
+   mycommand:
+      description: An example command
+      useage:  /mycommand
